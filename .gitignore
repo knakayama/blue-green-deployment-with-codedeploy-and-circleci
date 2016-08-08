@@ -1,0 +1,4 @@
+*tfstate*
+.terraform
+keys/*
+!keys/key_pair.pub
